@@ -14,8 +14,9 @@
 - Conventional Commits（文章多用 `docs:`）。
 - 具名 staging，**不用** `git add -A`（避免誤入暫存 / 隱私檔）。
 - 每個 Claude 產生的 commit 加 trailer：`Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>`。
-- GitHub：計畫公開推送；目前本地 `main`、尚無 remote。
+- GitHub：已公開推送；remote `origin` = https://github.com/chingho-chang/tech-writing，`main` 追蹤 `origin/main`。
 
 ## 文章
 
 - `sdd-retro-article.md` — spec-driven agentic coding 一週心得：AI 協作如何把寫文件 / 測試從「美德稅」變成副產品。
+- `frictionless-collaboration.md` — 〈終於只剩事情本身〉：AI 協作免去面對協作情緒的解脫感，及這份解脫轉移到別處的代價（抒發短文）。
